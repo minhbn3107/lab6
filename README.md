@@ -1,3 +1,3 @@
--   [Screen](./buoi6/App.js)
+-   [Screen](./App.js)
 
-    ![Screen](./buoi6/screen.jpeg)
+    ![Screen](./screen.jpeg)
